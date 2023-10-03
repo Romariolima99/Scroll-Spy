@@ -38,5 +38,5 @@ O Scroll Spy é uma técnica popular usada em páginas da web para destacar auto
 - Email: devromariolima@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/romariolima99/](https://www.linkedin.com/in/romariolima99/)
 
-<img src="https://imgur.com/GzvVnZ2" alt="GIF" data-canonical-src="https://imgur.com/GzvVnZ2" style="max-width: 50%;">
+<img src="https://i.imgur.com/GzvVnZ2.png" alt="GIF" data-canonical-src="https://i.imgur.com/GzvVnZ2.png" style="max-width: 50%;">
 
