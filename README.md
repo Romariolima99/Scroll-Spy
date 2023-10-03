@@ -1,4 +1,4 @@
-# Scroll Spy - Romário Lima, Desenvolvedor Front-End
+# Scroll Spy 
 
 Este projeto é um exemplo de um Scroll Spy desenvolvido com HTML, CSS e JavaScript.
 
